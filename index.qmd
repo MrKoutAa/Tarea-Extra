@@ -1,6 +1,6 @@
 ---
 title: "tarea extra"
-author: "Christisn Cisneros C32240"
+author: "Christian Cisneros C32240"
 format: 
   dashboard:
     orientation: rows
